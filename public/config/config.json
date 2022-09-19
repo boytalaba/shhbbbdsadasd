@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf3dfBC1282b19aE9f3E4F46089c9C8BD6890cFF6",
+  "SCAN_LINK": "https://explorer.shibchain.app/address/0xf3dfBC1282b19aE9f3E4F46089c9C8BD6890cFF6",
+  "NETWORK": {
+    "NAME": "shibchain",
+    "SYMBOL": "Wshib",
+    "ID": 1923
+  },
+  "NFT_NAME": "MoonShibs",
+  "SYMBOL": "MNSHBS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 250000000000000000000000,
+  "DISPLAY_COST": 250000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "MoonShibNFT",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
